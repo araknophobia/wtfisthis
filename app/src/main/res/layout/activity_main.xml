@@ -29,6 +29,6 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/editText"
         app:layout_constraintLeft_toRightOf="@+id/editText"
         app:layout_constraintRight_toRightOf="parent"
-        tools:text="@string/button_send" />
+        tools:text="Slay" />
 
 </android.support.constraint.ConstraintLayout>
